@@ -2,6 +2,12 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
+2022 Graduate Computer Engineer.<br />
+My passion of coding brought me to this amazing world of programming.<br />
+I continue to build skills in new technologies and languages.<br />
+Adventuruous and like to play Cricket, Hacking, Trekking ...<br />
+Strongly believe in SLAM { Speak Less Act More }
+
 
 <hr>
 <h3 align="left">Connect with me:</h3>
