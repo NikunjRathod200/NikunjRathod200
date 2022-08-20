@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nikunj Rathod</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Nikunj Rathod</h1>
 
-<h3 align="center">A passionate frontend developer from Bhuj-India</h3>
+<h3 align="center">A passionate programmer from Bhuj-India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
-2022 Graduate Computer Engineer.<br />
+<p align="center">
+<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+</p>
+
+Currectly persuing M.Tech (ICT) - Machine Learning from Daiict.<br />
 My passion of coding brought me to this amazing world of programming.<br />
 I continue to build skills in new technologies and languages.<br />
 Adventuruous and like to play Cricket, Hacking, Trekking ...<br />
@@ -30,5 +34,10 @@ Strongly believe in SLAM { Speak Less Act More }
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikunjrathod200&show_icons=true&locale=en" alt="nikunjrathod200" /></p>
 <hr>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikunjRathod200&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231" />
+</p>
+
 <h3 align="left">Git Achievements:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikunjrathod200" alt="nikunjrathod200" /></a> </p>
